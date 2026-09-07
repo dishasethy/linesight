@@ -1,0 +1,2 @@
+bottleneck_station,throughput_before,throughput_after,throughput_gain_pct,downtime_before_sec,downtime_after_sec,downtime_reduction_pct,oee_before,oee_after
+Packaging,1389.9,1410.0,1.4,18263,5172,71.7,0.961,0.975
