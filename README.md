@@ -41,7 +41,7 @@ line_sight/
 
 ### 1. Prerequisites
 - Python 3.9+ installed (`python --version` to check)
-- Git (to push to GitHub)
+- Git (push to GitHub)
 
 ### 2. Clone / navigate to the project folder
 ```bash
